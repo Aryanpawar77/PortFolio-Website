@@ -171,7 +171,7 @@ footer {
 
 .leftSection .btn {
   padding: 12px;
-  margin: 18px 11px;
+  margin: 100px 11px;
   border: 2px solid black;
   border-radius: 10px;
   font-size: 20px;
@@ -182,4 +182,10 @@ footer {
 
 .leftSection .btn :hover{
     color: rgb(3, 101, 199);
+}
+
+
+.btn:hover{
+  background-color: #c6c4c3;
+  font-size: 25px;
 }
