@@ -157,7 +157,7 @@ footer {
   cursor: pointer;
 }
 
-.footer li{
+.footer li {
   margin-bottom: 5px;
 }
 
@@ -173,26 +173,21 @@ footer {
 
 .buttons {
   display: flex;
+  margin: 21px 4px;
 }
 
 .leftSection .btn {
   padding: 12px;
-  margin: 100px 11px;
   border: 2px solid black;
   border-radius: 10px;
   font-size: 20px;
   color: #000000;
   background-color: #eaebed;
   cursor: pointer;
+  width: 202px;
+  margin: 0 10px;
 }
 
-.leftSection .btn :hover{
-    color: rgb(3, 101, 199);
-}
-
-
-.btn:hover{
+.btn:hover {
   background-color: #c6c4c3;
-  font-size: 21px;
 }
-
